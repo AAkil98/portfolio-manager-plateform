@@ -1,7 +1,4 @@
-# **Task Template**
-
 ---
-
 name: Task
 about: Create a new project task
 title: '[TASK-ID] Task Ttile'
