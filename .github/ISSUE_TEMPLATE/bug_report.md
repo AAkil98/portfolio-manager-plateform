@@ -1,13 +1,9 @@
-# **Bug Report**
-
 ---
-
 name: Bug Report
-about: Report something that is not working correctly
+about: Report something that isn't working correctly
 title: '[BUG] Brief description'
 labels: 'type:bug'
 assignees: ''
----
 
 ## Bug Summary
 
@@ -15,9 +11,11 @@ assignees: ''
 
 ---
 
+## Environment
+
 | Field | Value |
 |-------|-------|
-| **Module** | <!-- e.g., VPIN Monitor, Sentiment Sidecar --> |
+| **Module** | <!-- e.g., VPIN Monitor, Sentiment Siecar --> |
 | **Environment** | <!-- Production / Staging / Local --> |
 | **Version/Commit** | <!-- e.g., v1.2.0 or commit SHA --> |
 | **Date/Time** | <!-- When did this occur? --> |
@@ -42,7 +40,7 @@ assignees: ''
 
 ## Actual Behavior
 
-<!-- What actuall happens? -->
+<!-- What actually happens? -->
 
 ---
 
@@ -51,14 +49,17 @@ assignees: ''
 <!-- Paste error messages, screenshots, or relevant logs -->
 
 ```default
-# Past logs here
+#Paste logs here
 ```
+
+---
 
 ## Severity Assessment
 
-- [ ] **Critical** - System down, data loss, financial impact
-- [ ] **Medium** - Major feature broken, no workaround
-- [ ] **Low** - Minor issue, cosmetic
+- [ ] **Ciritical** — System down, data loss, financial impact
+- [ ] **High** — Major feature broken, no workaround
+- [ ] **Medium** — Feature broken, workaround exists
+- [ ] **Low** — Minor issue, cosmetic
 
 ---
 
