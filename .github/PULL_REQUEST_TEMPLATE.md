@@ -1,4 +1,4 @@
-# **Description**
+# Description
 
 <!-- What does this PR do? Be specific. -->
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Task ID** | <!-- e.g., DEV-001 --> |
+| **Task ID** | <!-- e.g., DEV-001--> |
 | **Issue** | <!-- Closes #123 --> |
 | **Phase** | <!-- e.g., Phase 2: Development --> |
 
@@ -19,18 +19,18 @@
 <!-- Check all that apply -->
 
 - [ ] 🆕 Feature (new functionality)
-- [ ] 🐛 Bug fix (fixes an issue)
+- [ ] 🐛 Bug fix (fixes on issue)
 - [ ] 📝 Documentation (docs only)
 - [ ] ♻️ Refactor (no functional change)
 - [ ] ⚡ Performance (improves performance)
-- [ ] 🧪 Test (adds/updates tests)
+- [ ] 🧪 Test (adds/ updates tests)
 - [ ] 🔧 Chore (build, CI, dependencies)
 
 ---
 
 ## Changes Made
 
-<!-- List the specific changes -->
+<!-- List the speficic changes -->
 
 - Change 1
 - Change 2
@@ -43,12 +43,12 @@
 <!-- How did you test this? -->
 
 - [ ] Unit tests added/updated
-- [ ] Integration tests added/updated
+- [ ] Integration tests aded/updated
 - [ ] Manual testing completed
 - [ ] Tested in local environment
 - [ ] Tested edge cases
 
-### Test Commands Run
+## Test Commands Run
 
 ```bash
 # What commands did you run?
@@ -75,21 +75,19 @@ pytest tests/
 - [ ] I have performed a self-review
 - [ ] I have commented complex code
 - [ ] I have updated documentation
-- [ ] I have updated MILESTONES.md
+- [ ] Iahve updated MILESTONES.md
 - [ ] My changes generate no new warnings
 - [ ] New and existing tests pass locally
 - [ ] Any dependent changes have been merged
 
 ---
 
-## Deployment Notes
-
 <!-- Anything special needed for deployment? -->
 
 - [ ] No special deployment steps required
 - [ ] Database migration required
 - [ ] Environment variables added
-- [ ] Configuration changes needed
+- [ ] Configuration changes need
 
 ---
 
