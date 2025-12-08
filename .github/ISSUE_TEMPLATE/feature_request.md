@@ -1,7 +1,4 @@
-# **Feature Request**
-
 ---
-
 name: Feature Request
 about: Suggest a new feature or enhancement
 title: '[FEATURE] Brief description'
@@ -15,7 +12,7 @@ assignees: ''
 
 ---
 
-## Problem Statment
+## Problem Statement
 
 <!-- What problem does this solve? Why is it needed? -->
 
@@ -31,13 +28,13 @@ assignees: ''
 
 <!-- Optional: Frame it as a user story -->
 
-> As a **[type of user]**
-> I want **[goal/desire]**
-> So that **[benefit/reason]**.
+> As a **[type of user]**,
+> I want **[goal/desire]**,
+> So that **[benifit/reason]**.
 
 ---
 
-## Acceptnce Criteria
+## Acceptance Criteria
 
 <!-- How do we know this feature is complete? -->
 
@@ -47,17 +44,17 @@ assignees: ''
 
 ---
 
-## Alternative Considered
+## Alternatives Considered
 
-<!-- What other approaches did you consider? Why not those -->
+<!-- What other approaches did you consider? Why not those? -->
 
 ---
 
 ## Impact Assessment
 
 | Area | Impact |
-| **Module Affected** | <!-- Why modules need changes? --> |
-| **Estimated Effort** | <!-- Small / Medium / Large --> |
+|------|--------|
+| **Modules Affected** | <!-- Which modules need changes? -->|
 | **Risk Level** | <!-- Low / Medium / High --> |
 
 ---
