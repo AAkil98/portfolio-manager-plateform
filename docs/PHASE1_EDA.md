@@ -29,7 +29,7 @@ Set up data ingestion pipeline for cryptocurrency and traditional market data. M
 ### Acceptance Criteria
 
 - [ ] Connect to 2+ crypto exchanges (Binance, Coinbase)
-- [ ] Inget OHLCV data at 1-minute granularity
+- [ ] Ingest OHLCV data at 1-minute granularity
 - [ ] Store in time-series database (TimescaleDB/InfluxDB)
 - [ ] Data completeness validation > 99%
 - [ ] Backfill capability for 2+ years of historical data
@@ -130,7 +130,7 @@ OUTPUT FORMAT:
 - Unit tests with edge cases
 
 CONSTRAINTS:
-- Must handle gaps n data gracefully
+- Must handle gaps in data gracefully
 - Calculation must be deterministic (same input → same output)
 - Memory-efficient for long-running processes
 
