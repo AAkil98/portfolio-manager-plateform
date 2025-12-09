@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Create a new project task
-title: '[TASK-ID] Task Ttile'
+title: '[TASK-ID] Task Title'
 labels: ''
 assignees: ''
 ---
@@ -12,7 +12,7 @@ assignees: ''
 |-------|-------|
 | **Task ID** | <!-- e.g., DEV-001, EDA-003 --> |
 | **Phase** | <!-- e.g., Phase1: EDA, Phase 2: Development --> |
-| **Module** | <!-- e.g., Execution, Metamodel, Rist Engine --> |
+| **Module** | <!-- e.g., Execution, Metamodel, Risk Engine --> |
 | **Estimated Time** | <!-- e.g., 3-4 days --> |
 | **Priority** | <--! Critical / High / Medium / Low --> |
 
@@ -53,15 +53,6 @@ assignees: ''
 
 # Code snippets, API contracts, or technical specs can go here
 
-```
-
-## AI Prompt Reference
-
-<!-- Link to the API prompt in the phase documentation -->
-
-📄 See: [Phase X Documentation](./docs/PHASE_X.md#task-id)
-
----
 
 ## Definition of Done
 
