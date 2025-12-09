@@ -50,9 +50,8 @@ assignees: ''
 <!-- Any technical details, constraints, or considerations -->
 
 ```default
-
 # Code snippets, API contracts, or technical specs can go here
-
+```
 
 ## Definition of Done
 
